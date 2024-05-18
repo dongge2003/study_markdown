@@ -1,5 +1,5 @@
-# study_markdown
-# <center> **MARKDOWN**  
+
+# <center>**MARKDOWN**   
 
 ---
 # 标题  
